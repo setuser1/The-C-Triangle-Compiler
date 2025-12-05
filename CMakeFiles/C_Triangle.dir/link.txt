@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/C_Triangle.dir/src/main.c.o CMakeFiles/C_Triangle.dir/src/lexer.c.o CMakeFiles/C_Triangle.dir/src/Pointers_and_Lines.c.o -o C_Triangle 
